@@ -2,5 +2,5 @@ my_name = jameer
 print(my_name)
 print("nice name")
 print("nice name")
-print("nice name")
-print("nice name")
+print("nice jameer!")
+print("text!)
